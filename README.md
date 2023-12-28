@@ -9,8 +9,6 @@ This Arduino project implements a door open detection system using an ultrasonic
 - Blue LED
 - Green LED
 - Buzzer (27CN)
-- Push Button Switch (4-pin)
-- 10 Ohm Resistor
 - Breadboard
 - Jumper Wires
 
